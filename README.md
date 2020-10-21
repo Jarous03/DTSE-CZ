@@ -1,2 +1,2 @@
-# DTES-CZ
+# DTSE-CZ
 Task IMDB
